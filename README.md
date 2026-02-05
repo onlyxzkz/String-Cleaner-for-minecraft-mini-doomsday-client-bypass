@@ -3,9 +3,10 @@ String remover for javaw.exe (minecraft).
 Please use the "exit" command to shut down cmd, if not "C:/ProgramData/Oracle/Java/.oracle_jre_usage/" won't delete! (trace for doomsday client which can be found during SS)
 If not working please run as adminstrator. 
 
-Profesionall desc:
 
-# String Cleaner
+
+# Profesionall desc: 
+String Cleaner
 A post-execution utility designed to wipe sensitive traces from memory.
 
 Targeted Scanning: Specifically scans the javaw.exe process.
